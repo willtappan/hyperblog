@@ -1,0 +1,172 @@
+CD
+cd
+ls
+python 
+python 
+git --version
+ls
+code
+git status
+cd W
+cd W:
+w:
+W:
+ls
+cd ..
+ls
+cd ..
+ls
+cd udr
+cd usr
+ls
+cd ..
+pwd
+git init
+c/
+cd Cls
+ls
+:
+pwd
+ls
+ls -al
+ls -l
+ls -al
+ls -a
+cd /mnt/
+cd /c
+ls
+cd /w
+ls
+cd Documentos/Platzi/
+ls
+ls
+cd 
+
+cd Documentos/Platzi/
+pw
+ls
+w/
+/w
+\w
+\w
+cd wls
+/w
+ls
+cd ..
+cd..
+cd ..
+cd ..
+W
+pwd
+/w
+w/
+/w
+ls
+cd proc/
+c/
+/c
+ls
+cd ..
+cd..
+cd ..
+cd ..
+cd 
+w/
+/w
+c/
+ls
+pd
+pwd
+/W
+pwd
+/W
+cd ..
+cd ..
+cd ..
+/w
+cd W/Documentos/Platzi/
+ls
+ mkdir proyexto1
+ls
+ mkdir proyecto1
+rm proyexto1/
+rmdir proyexto1/
+touch vacio.txt
+history
+history cat vacio.txt 
+cat vacio.txt history 
+rm --help
+cd proyecto1/
+git init 
+ls -al
+git status
+git add historia.txt 
+git status
+git rm historia.txt 
+git status 
+git rm -- cached historia.txt 
+git rm --cached historia.txt 
+git status
+git add historia.txt 
+git status
+git commitg
+git status 
+git status 
+git commit
+git commit -m "Este es el primner commit de este archivo"
+git config
+git config --list
+git config --list --show-origin
+git config --global user.name "William Tappan"
+git config --global user.email "william.tappan@outlook.com"
+git commit -m "Este es el primner commit de este archivo"
+cat historia.txt 
+code historia.txt 
+git status
+git commit -m "Cambios al arcchivo "
+git .
+git add .
+git status 
+git commit -m "Cambios al arcchivo "
+git log historia.txt
+git show historia.txt
+ls 
+code historia.txt 
+git add .
+git commit
+git commit
+code historia.txt 
+git add .
+git commit
+git show 
+git log historia.txt
+git diff d1921474eed7e0a13d075d80d01261015ac20562 
+git diff d1921474eed7e0a13d075d80d01261015ac20562 5d48260c099685175b96215c879afcd16e78a8a2
+git diff e4ac887a9a3197aa2636f3241d56c06424a1e421 d1921474eed7e0a13d075d80d01261015ac20562
+git diff e4ac887a9a3197aa2636f3241d56c06424a1e421 5d48260c099685175b96215c879afcd16e78a8a2
+git show 
+git log historia.txt
+git diff d1921474eed7e0a13d075d80d01261015ac20562 d1921474eed7e0a13d075d80d01261015ac20562
+git diff d1921474eed7e0a13d075d80d01261015ac20562 d1921474eed7e0a13d075d80d01261015ac20562
+git diff e4ac887a9a3197aa2636f3241d56c06424a1e421 5d48260c099685175b96215c879afcd16e78a8a2
+echo history apuntes.txt 
+ls
+echo apuntes.txt history 
+ls
+echo --man 
+--echo
+--man
+comand
+cat --help
+cat history apuntes.txt
+ls
+cat history apuntes.txt
+touch apuntes.txt
+ls
+cat history apuntes.txt
+cat apuntes.txt history
+cat .bash_history apuntes.txt 
+cat apuntes.txt 
+cat .bash_history > apuntes.txt 
+history --help
+history -w apuntes.txt 
