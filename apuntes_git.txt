@@ -34,7 +34,7 @@ Conclusión: Lo mejor que puedes hacer para salvar tu puesto y evitar un incendi
 
 git init genera Repositorio local  y prepara Staging 
 git add agrega los cambios al staging 
-git commit  
+git commit  sube los cambios al repositorio
 --hard 
 -soft 
 
@@ -45,8 +45,8 @@ git reset
 -soft 
 
 git status
-git show 
-git branch
+git show   muestra 
+git branch cambia de rama  
 
 
 git add 
@@ -54,4 +54,5 @@ git commit
 
 git merch 
 git fetch
+git pull 
 
