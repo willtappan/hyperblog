@@ -31,3 +31,27 @@ Bueno, todos los cambios están en el área de Staging, incluido el archivo con 
 En cambio, si usamos git reset HEAD, lo único que haremos será mover estos cambios de Staging a Unstaged. Seguiremos teniendo los últimos cambios del archivo, el repositorio mantendrá el archivo (no con sus últimos cambios pero sí con los últimos en los que hicimos commit) y no habremos perdido nada.
 
 Conclusión: Lo mejor que puedes hacer para salvar tu puesto y evitar un incendio en tu trabajo es conocer muy bien la diferencia y los riesgos de todos los comandos de Git.
+
+git init genera Repositorio local  y prepara Staging 
+git add agrega los cambios al staging 
+git commit  
+--hard 
+-soft 
+
+git rm --cached: Elimina los archivos del área de Staging y del próximo commit pero los mantiene en nuestro disco duro.
+git rm --force: Elimina los archivos de Git y del disco duro. Git siempre guarda todo, por lo que podemos acceder al registro de la existencia de los archivos, de modo que podremos recuperarlos si es necesario (pero debemos usar comandos más avanzados).
+git reset
+--hard 
+-soft 
+
+git status
+git show 
+git branch
+
+
+git add 
+git commit 
+
+git merch 
+git fetch
+
