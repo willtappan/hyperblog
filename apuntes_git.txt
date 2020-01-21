@@ -53,7 +53,7 @@ git cheackaout
 git add 
 git commit 
 
-git merch 
+git merch es para unir las ramas hacer  un commit fusiona las ramas de cabecera al master 
 git fetch
 git pull 
 
