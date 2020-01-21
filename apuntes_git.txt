@@ -46,7 +46,8 @@ git reset
 
 git status
 git show   muestra 
-git branch cambia de rama  
+git branch agregaa una ramm
+git cheackaout 
 
 
 git add 
