@@ -170,3 +170,5 @@ cat apuntes.txt
 cat .bash_history > apuntes.txt 
 history --help
 history -w apuntes.txt 
+
+
